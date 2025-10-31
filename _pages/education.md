@@ -1,7 +1,7 @@
 ---
 title: "Education"
 permalink: /education/
-layout: page
+layout: archive
 ---
 
 {% include base_path %}
