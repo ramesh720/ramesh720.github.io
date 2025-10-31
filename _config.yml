@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ramesh Gundluru Academic Portfolio"
+title                    : "Ramesh Gundluru"
 title_separator          : "-"
 name                     : &name "Ramesh Gundluru"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Ramesh Gundluru academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ramesh720.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "ramesh.jpeg"
   name             : "Ramesh Gundluru"
   pronouns         : # example: "she/her"  
-  bio              : "I’m Ramesh Gundluru, a Research Scholar at IIT Hyderabad specializing in speech and audio processing, machine learning, and deep learning."
+  bio              : "Research Scholar at IIT Hyderabad"
   location         : "Hyderabad, India"
   employer         : "IIT Hyderabad"
   uri              : # URL
