@@ -1,7 +1,7 @@
 ---
 title: "Attention-based Phonetic Convolutional Recurrent Neural Networks for Language Identification"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2021-ncc-attention-crnn-lid
 excerpt: 'An attention-based phonetic convolutional recurrent neural network for language identification.'
 date: 2021-03-01

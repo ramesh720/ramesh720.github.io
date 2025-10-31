@@ -1,7 +1,7 @@
 ---
 title: "Self-Supervised Phonotactic Representations for Language Identification"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2021-interspeech-phonotactic
 excerpt: 'Self-supervised phonotactic representations that improve language identification performance.'
 date: 2021-09-01

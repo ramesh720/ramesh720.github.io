@@ -1,7 +1,7 @@
 ---
 title: "Duration-Aware Phone Embedding Upsampling for Open Vocabulary Keyword Spotting"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2025-ncc-duration-aware-kws
 excerpt: 'A duration-aware phone embedding upsampling technique for improving open-vocabulary keyword spotting.'
 date: 2025-03-01

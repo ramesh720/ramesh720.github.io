@@ -1,7 +1,7 @@
 ---
 title: "Overcoming NAWEs Fixed-Window Constraints for Spoken Term Detection and Localization"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2026-icassp-nawes-localization
 excerpt: 'A method to overcome fixed-window constraints in Neural Acoustic Word Embeddings for spoken term detection and localization.'
 date: 2026-03-01

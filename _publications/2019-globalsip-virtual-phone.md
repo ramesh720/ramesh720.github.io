@@ -1,7 +1,7 @@
 ---
 title: "Virtual Phone Discovery for Speech Synthesis without Text"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2019-globalsip-virtual-phone
 excerpt: 'A virtual phone discovery method enabling speech synthesis without text transcripts.'
 date: 2019-12-01
