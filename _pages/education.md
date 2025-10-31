@@ -4,6 +4,8 @@ permalink: /education/
 layout: page
 ---
 
+{% include base_path %}
+
 # 🎓 Education
 
 ## 🎓  Indian Institute of Technology Hyderabad (IITH), India  
