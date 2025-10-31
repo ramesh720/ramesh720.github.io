@@ -6,7 +6,6 @@ layout: archive
 
 {% include base_path %}
 
-# 🎓 Education
 
 ## 🎓  Indian Institute of Technology Hyderabad (IITH), India  
 **Integrated Doctor of Philosophy (Ph.D.) — Ongoing**  
