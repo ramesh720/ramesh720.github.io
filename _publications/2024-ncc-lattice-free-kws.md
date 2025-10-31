@@ -1,7 +1,7 @@
 ---
 title: "Lattice-Free Open Vocabulary Keyword Spotting"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2024-ncc-lattice-free-kws
 excerpt: 'A lattice-free neural approach for open-vocabulary keyword spotting using end-to-end acoustic models.'
 date: 2024-03-01

@@ -1,7 +1,7 @@
 ---
 title: "Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2025-asru-multimodal-contrastive-kws
 excerpt: 'A joint multimodal contrastive learning framework for robust spoken term detection and keyword spotting.'
 date: 2025-12-01

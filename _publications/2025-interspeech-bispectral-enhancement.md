@@ -1,7 +1,7 @@
 ---
 title: "Exploiting Bispectral Features for Single-Channel Speech Enhancement"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2025-interspeech-bispectral-enhancement
 excerpt: 'Bispectral feature-based single-channel speech enhancement for robust signal recovery.'
 date: 2025-09-01

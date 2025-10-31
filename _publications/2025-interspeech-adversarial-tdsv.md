@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Attacks on Text-Dependent Speaker Verification Systems"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2025-interspeech-adversarial-tdsv
 excerpt: 'Analysis of adversarial vulnerabilities in text-dependent speaker verification systems and proposed countermeasures.'
 date: 2025-09-01

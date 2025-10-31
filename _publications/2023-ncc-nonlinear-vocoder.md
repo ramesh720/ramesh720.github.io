@@ -1,7 +1,7 @@
 ---
 title: "A Non-linear Source-Filter Based Vocoder with Prosody Control"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2023-ncc-nonlinear-vocoder
 excerpt: 'A non-linear source-filter vocoder design with explicit prosody control for expressive speech synthesis.'
 date: 2023-02-01
